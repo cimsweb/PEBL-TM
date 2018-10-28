@@ -4,7 +4,7 @@ Positive example based learning topic model for classification of text documents
 
 
 
-License
+#License
 
 BigARTM is released under New BSD License that allowes unlimited redistribution for any purpose (even for commercial use) as long as its copyright notices and the license’s disclaimers of warranty are maintained.
 
