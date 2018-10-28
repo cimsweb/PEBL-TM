@@ -1,6 +1,6 @@
 # PEBL-TM
 Классификация текстовых документов с использованием вероятностной тематической модели, обученной на положительных примерах
-
+Positive example based learning topic model for classification of text documents.
 
 
 
